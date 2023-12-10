@@ -3,3 +3,4 @@ file /testing/index.html
 dir /run
 dir /run/runScript
 file /run/runScript/index.php
+file /run/runScript/herp
